@@ -2,6 +2,9 @@
 
 A modern, interactive portfolio built with Next.js, Tailwind CSS, and Framer Motion.
 
+## Image
+![image alt](https://github.com/ANUBHAV9598/My-Portfolio/blob/main/Portfolio.png?raw=true)
+
 ## Features
 
 - **Responsive Design**: Optimized for all devices.
